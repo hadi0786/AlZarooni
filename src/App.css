@@ -699,7 +699,7 @@ body {
 .carousel-image {
   position: absolute;
   top: 0;
-  left: 50%;
+  left: 38%;
   width: 300px; /* Adjusted size */
   height: 250px; /* Adjusted size */
   transform: translateX(-50%) scale(0.8);

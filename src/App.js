@@ -53,7 +53,7 @@ function App() {
       {/* Video Section */}
       <div className="video-container">
         <video className="intro-video" controls autoPlay muted loop>
-          <source src="/intro-video.mp4" type="video/mp4" />
+          <source src="/video.mp4" type="video/mp4" />
           Your browser does not support the video tag.
         </video>
       </div>
@@ -290,7 +290,7 @@ function App() {
 
 </div>
 <div className="carousel-img-section">
-  <h2 class="media-title">Zaroon's Social Media</h2>
+  <h2 class="media-title">Zarooni's Social Media</h2>
   <div className="carousel">
     <button className="carousel-button prev" onClick={handlePrev}>
       &#8249;
